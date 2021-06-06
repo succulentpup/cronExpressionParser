@@ -1,0 +1,21 @@
+{
+  "name": "cronExpressionParser",
+  "version": "1.0.0",
+  "description": "A command line application or script which parses a cron expression & expands each field to show the times at which it will run",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": "git@github.com:succulentpup/cronExpressionParser.git",
+  "author": "Ganesh Adapa <36997100+succulentpup@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "jest": "^27.0.4",
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jest": "^23.0.2"
+  }
+}
